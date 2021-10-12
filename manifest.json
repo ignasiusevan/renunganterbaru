@@ -1,0 +1,38 @@
+{
+  "name": "Renungan Terbaru",
+  "short_name": "Renungan Terbaru",
+  "start_url": "https://renunganterbaru.blogspot.com",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Renungan Harian Katolik Terbaru Hari ini",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEh8QHI2gneF2mR8IhPK5imSmF0wV6Rhxi62QrcO3NCxJ8enpWy62Ax7SsLPoL9ZcpRDZxmrmfZ9OICSgYv7J-rcoIMBnGRlGYjIHgCA_eeoY8DURxS2-fIiy7o_jHor0rVUDdJsmbcgSE9gV3xuWbOKloh4KYNKqKyYoeGJRHnlzr6L0Ys0LLSew8uY",
+    "sizes": "48x48",
+    "type": "image/jpg"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEiY2zoSu3n_jNTiJ69XIlGxOtdy_L2xbD0lwy_0ZsBPjLN0ADEzlDHGQOth8VKa0Sxe6Jod37FpIxtyBPMDTqIRX0UVl9jI9w_-TvmUEaOh85wgjnbw3DzeQZZgPb4TyOrAPcIBt-8v1bjRfWJpZWvdUdw-PmyoveUZe4PRau1JtmbzsPjOD5PqW7VG",
+    "sizes": "72x72",
+    "type": "image/jpg"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhH13IiYlRuDecpFy4kOL96jlmkYc2eOcb2bsZcJUKzIJPCDlh9kmdgfuT6PYieDKU52vxsSPzd32gQBbOFkduQz9FEwvVoEYeTisuBs1p01JGScWnAhb0caAwnjUNiUQsERv-bSEllu4XoIDdEQ89MFe-VDMOuFOoF4y5GNGjfsuFSNfpP8sFshr5d",
+    "sizes": "96x96",
+    "type": "image/jpg"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEghPZ4bdkVL1evzs798Kx-t4ykOq_OBd2juCuP0N0rfNYUH7XlzNftRpUHvfrKRY9fl9DZOPvb7vBkVJ_VXp57ucktkIUtuMIkJo2Mdn_EtZ_4jqVYlxduTRaG60o4HDBaR56fuC0XlJBZtXY0i4OouG248azKZk4fmBONhRoYmNHaELVp5xFn5gue7",
+    "sizes": "144x144",
+    "type": "image/jpg"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEi2_jpZAbzKW6kiB9C1WuYMJkHf9ZT65Zv4rJU2fhxjTS4PcXOXtWUd_zE1uc7k0wNQa4AwY1sfheNxWsDjYrdqxoeqQ-44Q3UmlEl-PNoMX_EppMJ1-ix0Tc5iJjB2zmomAH7JG1b8qGch1HniFfjRX9NnOivMv_dYF08y_z7A0DjlWdpJ0RJZhNfu",
+    "sizes": "168x168",
+    "type": "image/jpg"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEiqvTwkL75I414-_1sgRdM9cfhtzoViWP9n4agEGAnEoGvlyXXYUd2kVYNVmGgiympYqe1s9UqdpuqiY7qMQlglaoBKDvWRzAhy4ESL-xbS7oWCGmnIbAqKIvJ7VmY8Zhpfj1D2UsBgOMncz_r5_u-MTWQ-jeBr9xXLzSs9usL_Pl9PVu6cp4wZY4Jl",
+    "sizes": "192x192",
+    "type": "image/jpg"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhUm2PoruBpR4-Y8EfESWmWB9-_XgXmV0r8w0WW2vUL7h7kPTHUvp_OtsGpS6Gbj9wbKmscQ6hfjQI-pdDN50zNDxI4RCNv0HFYgTdIU88dx1Mm5F-lkuv3H6b-lgwxATY_vc7G3ZOtSyq_AzdN4HT9RRFK49bFpWo_AERnS_XbsMuV66NMk_d0BcAY",
+    "sizes": "512x512",
+    "type": "image/jpg"
+  }]
+}
